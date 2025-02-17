@@ -1,0 +1,25 @@
+Processing question_tags.csv...
+Processed 100000 rows, current total: 3
+Processed 200000 rows, current total: 9
+Processed 300000 rows, current total: 13
+Processed 400000 rows, current total: 21
+Processed 500000 rows, current total: 34
+Processed 600000 rows, current total: 39
+Processed 700000 rows, current total: 49
+Processed 800000 rows, current total: 59
+Processed 900000 rows, current total: 69
+Processed 1000000 rows, current total: 87
+Processed 1100000 rows, current total: 100
+Processed 1200000 rows, current total: 115
+Processed 1300000 rows, current total: 129
+Processed 1400000 rows, current total: 145
+Processed 1500000 rows, current total: 158
+Processed 1600000 rows, current total: 183
+Processed 1700000 rows, current total: 208
+Processed 1800000 rows, current total: 222
+Processed 1900000 rows, current total: 234
+Processed 2000000 rows, current total: 251
+Processed 2100000 rows, current total: 275
+Processed 2200000 rows, current total: 302
+Processed 2300000 rows, current total: 322
+Processed 2400000 rows, current total: 346
