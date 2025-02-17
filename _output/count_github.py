@@ -25,4 +25,3 @@ print(f"Total lines containing 'GitHub': {count}")
 
 with open("_output/github_count.txt", "a") as f:
     f.write(f"Total lines containing 'GitHub': {count}\n")
-
